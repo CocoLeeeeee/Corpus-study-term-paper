@@ -1,0 +1,26 @@
+Cluster	Rank	Freq	Range	NormFreq	NormRange
+witch had	1	4	1	0.118	1.000
+witch was	1	4	1	0.118	1.000
+witch and	3	3	1	0.088	1.000
+witch s	4	2	1	0.059	1.000
+witch actually	5	1	1	0.029	1.000
+witch bade	5	1	1	0.029	1.000
+witch began	5	1	1	0.029	1.000
+witch bring	5	1	1	0.029	1.000
+witch did	5	1	1	0.029	1.000
+witch fell	5	1	1	0.029	1.000
+witch for	5	1	1	0.029	1.000
+witch give	5	1	1	0.029	1.000
+witch in	5	1	1	0.029	1.000
+witch laughed	5	1	1	0.029	1.000
+witch laughing	5	1	1	0.029	1.000
+witch never	5	1	1	0.029	1.000
+witch of	5	1	1	0.029	1.000
+witch struck	5	1	1	0.029	1.000
+witch thought	5	1	1	0.029	1.000
+witch threatened	5	1	1	0.029	1.000
+witch to	5	1	1	0.029	1.000
+witch we	5	1	1	0.029	1.000
+witch wetting	5	1	1	0.029	1.000
+witch who	5	1	1	0.029	1.000
+witch wished	5	1	1	0.029	1.000

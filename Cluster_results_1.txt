@@ -1,0 +1,19 @@
+Cluster	Rank	Freq	Range	NormFreq	NormRange
+fire engine	1	4	1	0.148	1.000
+fire the	2	3	1	0.111	1.000
+fire and	3	2	1	0.074	1.000
+fire on	3	2	1	0.074	1.000
+fire put	3	2	1	0.074	1.000
+fire was	3	2	1	0.074	1.000
+fire but	7	1	1	0.037	1.000
+fire chief	7	1	1	0.037	1.000
+fire fed	7	1	1	0.037	1.000
+fire his	7	1	1	0.037	1.000
+fire people	7	1	1	0.037	1.000
+fire reaches	7	1	1	0.037	1.000
+fire shouted	7	1	1	0.037	1.000
+fire started	7	1	1	0.037	1.000
+fire there	7	1	1	0.037	1.000
+fire to	7	1	1	0.037	1.000
+fire truck	7	1	1	0.037	1.000
+fire with	7	1	1	0.037	1.000
